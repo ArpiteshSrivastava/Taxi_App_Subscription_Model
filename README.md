@@ -1,3 +1,7 @@
+## Project Objective : 
+
+To evaluate the problem-solving approach and data analysis skills for Product Management
+
 ## Problem Statement : 
 
 A taxi aggregation app is trying to introduce subscription plans which can offer some additional benefits to the user and in turn, can increase user loyalty.
