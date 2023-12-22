@@ -1,6 +1,6 @@
 ## Project Objective : 
 
-To evaluate the problem-solving approach and data analysis skills for Product Management
+To evaluate the problem-solving approach and data analysis skills for Product Management.
 
 ## Problem Statement : 
 
