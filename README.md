@@ -20,6 +20,17 @@ Please specify any assumptions that you might have taken in the solution.
 
 <img width="796" alt="Screenshot 2023-12-22 at 9 12 43 PM" src="https://github.com/ArpiteshSrivastava/Taxi_App_Subscription_Model/assets/130818503/31a92eed-4fe9-4096-824c-b8be0c3d5797">
 
-<img width="797" alt="Screenshot 2023-12-22 at 9 09 55 PM" src="https://github.com/ArpiteshSrivastava/Taxi_App_Subscription_Model/assets/130818503/9070b3d8-8c52-426e-b9dd-3aa005a42e4b">
+<img width="795" alt="Screenshot 2023-12-22 at 9 11 40 PM" src="https://github.com/ArpiteshSrivastava/Taxi_App_Subscription_Model/assets/130818503/0d46b8d0-2eba-4fe6-a882-ede2011147a1">
+
+<img width="797" alt="Screenshot 2023-12-22 at 9 11 53 PM" src="https://github.com/ArpiteshSrivastava/Taxi_App_Subscription_Model/assets/130818503/796b40c3-3ce8-4b90-84c0-6eb18b14468c">
+
+<img width="796" alt="Screenshot 2023-12-22 at 9 12 08 PM" src="https://github.com/ArpiteshSrivastava/Taxi_App_Subscription_Model/assets/130818503/559ae8d3-bb52-416f-8036-0bedda1a6e57">
+
+<img width="795" alt="Screenshot 2023-12-22 at 9 12 25 PM" src="https://github.com/ArpiteshSrivastava/Taxi_App_Subscription_Model/assets/130818503/521e2b93-deb1-4742-a188-da7b8b7139c4">
+
+<img width="796" alt="Screenshot 2023-12-22 at 9 12 43 PM" src="https://github.com/ArpiteshSrivastava/Taxi_App_Subscription_Model/assets/130818503/63757c60-9e2f-4cb7-871b-e0795025db04">
+
+
+
 
 
