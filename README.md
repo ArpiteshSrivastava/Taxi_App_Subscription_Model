@@ -35,7 +35,7 @@ Question 2 Solution Approach:
 
 <img width="795" alt="Screenshot 2023-12-22 at 9 12 25 PM" src="https://github.com/ArpiteshSrivastava/Taxi_App_Subscription_Model/assets/130818503/521e2b93-deb1-4742-a188-da7b8b7139c4">
 
-Questin 3 Solution Approach:
+Question 3 Solution Approach:
 
 ![Taxi App Subscription model - Sketch Wireframe - Arpitesh Srivastava](https://github.com/ArpiteshSrivastava/Taxi_App_Subscription_Model/assets/130818503/1e739483-f0a6-4e47-8eb2-cef70bcd1aaf)
 
