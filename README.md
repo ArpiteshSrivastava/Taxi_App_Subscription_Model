@@ -28,8 +28,6 @@ Please specify any assumptions that you might have taken in the solution.
 
 <img width="795" alt="Screenshot 2023-12-22 at 9 12 25 PM" src="https://github.com/ArpiteshSrivastava/Taxi_App_Subscription_Model/assets/130818503/521e2b93-deb1-4742-a188-da7b8b7139c4">
 
-<img width="796" alt="Screenshot 2023-12-22 at 9 12 43 PM" src="https://github.com/ArpiteshSrivastava/Taxi_App_Subscription_Model/assets/130818503/63757c60-9e2f-4cb7-871b-e0795025db04">
-
 
 
 
